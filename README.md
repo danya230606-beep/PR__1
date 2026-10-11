@@ -1,4 +1,4 @@
-# Практична робота №1. Фреймворки JavaScript
+﻿# Практична робота №1. Фреймворки JavaScript
 
 Ознайомлення з сучасними фронтенд-фреймворками. Базові додатки на React, Vue.js та Angular.
 
@@ -24,4 +24,4 @@
 ![Vue](screenshots/vue.png)
 
 ### Angular
-![Angular](screenshots/Angular.png)
+![Angular](screenshots/angular-app.png)
